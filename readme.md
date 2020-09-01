@@ -1,3 +1,9 @@
+# QuizService
+- Handles QuizAPI calls.
+- Renews user subscriptions if they have enough balance
+- Picks weekly winners and awards them
+
+
 Statistics DB tables
 --------------
 

@@ -13,4 +13,6 @@ stats_subscription - gets updated every time a subscription plan is renewed or d
 
 stats_users - gets updated every time a user registers or verifies their account
 
-Statistics about currently active users, number of played questions, correct/incorrect answers can be obtained from the main tables.
+Statistics about currently active users, number of played questions, correct/incorrect answers can be obtained from the main tables.  
+<br/><br/><br/>
+**Functionality should be upgraded with validation of input data.*
